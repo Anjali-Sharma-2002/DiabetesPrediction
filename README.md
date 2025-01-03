@@ -5,6 +5,9 @@ Model results using f1 score for cross validation predictions and test dataset.
 
 
 F1 score                     |   Cross-validation prediction  |  Test Dataset
+
 SVM Model                    |           0.65                 |       0.54
+
 Logistic Regression Model    |           0.64                 |       0.53
+
 SGD Classifier Model         |           0.60                 |       0.45
